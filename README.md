@@ -15,3 +15,5 @@ Tingting Li: Keep going. Each step counts
 Yadi: Excited to join this project and learn GitHub workflow!
 
 Hailin Wu
+
+Simeng Zhou
