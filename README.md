@@ -6,8 +6,6 @@ Tim: Hello world
 
 Longze
 
-Jimmy
-
 This is Longze :)
 
 Jimmy
