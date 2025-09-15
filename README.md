@@ -6,9 +6,9 @@ Tim: Hello world
 
 Longze
 
-Jimmy
-
 This is Longze :)
+
+Jimmy
 
 Tingting Li: Keep going. Each step counts
 
