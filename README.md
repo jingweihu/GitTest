@@ -10,6 +10,8 @@ This is Longze :)
 
 Jimmy
 
+qwer
+
 Tingting Li: Keep going. Each step counts
 
 Yadi: Excited to join this project and learn GitHub workflow!
